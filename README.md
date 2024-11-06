@@ -26,16 +26,16 @@ The project provides code in Jupyter Notebooks that can be easily modified to su
 
 ## Features
 ### 1. Vegetation Indices
-**NDVI (Normalized Difference Vegetation Index):** NDVI is widely used to monitor vegetation health, assessing green vegetation and its seasonal variation.
-**NDRE (Normalized Difference Red Edge Index):** NDRE is particularly sensitive to the chlorophyll content in vegetation, making it valuable for vegetation stress analysis.
-**NDMI (Normalized Difference Moisture Index):** NDMI is used to assess moisture content in vegetation and is helpful for drought monitoring and water stress analysis.
+**NDVI (Normalized Difference Vegetation Index):** NDVI is widely used to monitor vegetation health, assessing green vegetation and its seasonal variation.<br>
+**NDRE (Normalized Difference Red Edge Index):** NDRE is particularly sensitive to the chlorophyll content in vegetation, making it valuable for vegetation stress analysis.<br>
+**NDMI (Normalized Difference Moisture Index):** NDMI is used to assess moisture content in vegetation and is helpful for drought monitoring and water stress analysis.<br>
 ### 2. Meteorological Data
-**Temperature:** This dataset provides monthly temperature data, useful for studying climate trends and the effect of temperature on vegetation health.
-**Rainfall:** Monthly rainfall data is essential for understanding precipitation patterns, which play a crucial role in crop and forest health.
+**Temperature:** This dataset provides monthly temperature data, useful for studying climate trends and the effect of temperature on vegetation health.<br>
+**Rainfall:** Monthly rainfall data is essential for understanding precipitation patterns, which play a crucial role in crop and forest health.<br>
 ### 3. Topographic Data
-**Slope:** The slope dataset provides information on terrain steepness, useful for erosion modeling and agricultural planning.
-**Elevation:** Elevation data helps in understanding the landscape’s vertical features and influences on vegetation distribution and climate.
-**Hillshade:** This dataset simulates the effect of sun angles on the terrain, providing 3D visualization of topographic features.
+**Slope:** The slope dataset provides information on terrain steepness, useful for erosion modeling and agricultural planning.<br>
+**Elevation:** Elevation data helps in understanding the landscape’s vertical features and influences on vegetation distribution and climate.<br>
+**Hillshade:** This dataset simulates the effect of sun angles on the terrain, providing 3D visualization of topographic features.<br>
 ### 4. Canopy Height
 Canopy height data is extracted to understand forest structure and biomass. This information is vital for forest management and carbon modeling.
 ### 5. Time-Series Data Extraction
