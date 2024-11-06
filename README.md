@@ -7,6 +7,7 @@ This project leverages Python and the Google Earth Engine (GEE) API to extract a
 
 - [Project Overview](#project-overview)
 - [Features](#features)
+- [Output](#output)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Prerequisites](#prerequisites)
@@ -41,6 +42,13 @@ NDVI, NDRE, NDMI, Rainfall, and Temperature: Monthly time-series data extraction
 #### 6. Data Download
 The project enables users to download processed environmental data for further analysis or reporting.
 
+
+## Output
+The pipeline generates the following outputs, saved in the output/ folder:
+
+**GeoTIFF Files:** Raster outputs for vegetation indices (e.g., NDVI), precipitation layers, and terrain data.<br>
+**CSV Files:** Time series data summarizing vegetation and precipitation statistics.<br>
+**Visualizations:** HTML files for interactive map viewing and analysis.<br>
 
 ## Installation
 
