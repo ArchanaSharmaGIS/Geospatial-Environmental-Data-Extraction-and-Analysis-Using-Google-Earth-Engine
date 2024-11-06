@@ -9,13 +9,9 @@ This project leverages Python and the Google Earth Engine (GEE) API to extract a
 - [Features](#features)
 - [Output](#output)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Prerequisites](#prerequisites)
-- [Directory Structure](#directory-structure)
-- [Data Sources](#data-sources)
-- [Example Output](#example-output)
-- [Contributing](#contributing)
--
+- [Steps](#steps)
+
 
 ## Project Overview
 
