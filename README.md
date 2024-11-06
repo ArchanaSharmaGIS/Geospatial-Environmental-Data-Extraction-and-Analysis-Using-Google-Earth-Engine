@@ -14,9 +14,7 @@ This project leverages Python and the Google Earth Engine (GEE) API to extract a
 - [Data Sources](#data-sources)
 - [Example Output](#example-output)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [References](#references)
+-
 
 ## Project Overview
 
